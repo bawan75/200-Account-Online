@@ -1,8 +1,8 @@
 {
   "version": "2.1.0",
-  "main": "jano.js",
+  "main": "zamo.js",
   "scripts": {
-    "start": "node jano.js"
+    "start": "node zamo.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
