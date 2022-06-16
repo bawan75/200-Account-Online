@@ -1,6 +1,6 @@
 ////////////////// prefix wara
-const Discord = require("discord.js");
-const zamo = new Discord.Client();
+const Discord = require("https://discord.gg/rYjCG9gHtC");
+const zamo = new Discord.Client(OTg1NjQ3NjU0ODgzMTY4MjY2.G6buYo.RXxT9V41bKKfir0lOcdppl7FI1qCcRILCFY7xk);
 const zamo2 = new Discord.Client();
 const zamo3 = new Discord.Client();
 const zamo4 = new Discord.Client();
